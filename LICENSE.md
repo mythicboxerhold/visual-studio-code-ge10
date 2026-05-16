@@ -1,4 +1,4 @@
-# 
+# Enhance Visual Studio Code for PC | Visual Studio Code for Windows with smart Visual Studio Code for PC | Visual Studio Code for Windows Snippet | syntax-highlighting +
 
 
 
